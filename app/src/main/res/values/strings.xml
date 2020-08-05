@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">baithikethucmonAD</string>
+    <string name="textView1">Số nguyên n:</string>
+    <string name="btnNhap">Nhập</string>
+    <string name="textView2">Kết quả</string>
+    <string name="btnTrave">Trả về</string>
+</resources>
